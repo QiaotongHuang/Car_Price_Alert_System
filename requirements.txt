@@ -1,0 +1,9 @@
+selenium
+beautifulsoup4
+python-dotenv
+schedule
+pandas
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+google-api-python-client
